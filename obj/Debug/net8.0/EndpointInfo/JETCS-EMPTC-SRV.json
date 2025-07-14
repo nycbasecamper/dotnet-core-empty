@@ -1,0 +1,23 @@
+{
+  "openapi": "3.0.1",
+  "info": {
+    "title": "JETCS-EMPTC-SRV",
+    "version": "1.0"
+  },
+  "paths": {
+    "/Emptc": {
+      "get": {
+        "tags": [
+          "Emptc"
+        ],
+        "operationId": "GetData",
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    }
+  },
+  "components": { }
+}

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\JETCS-EMPTC-SRV.props" />
+</Project>

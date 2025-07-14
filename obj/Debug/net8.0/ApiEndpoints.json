@@ -1,0 +1,13 @@
+[
+  {
+    "ContainingType": "JETCS_EMPTC_SRV.Controllers.EmptcController",
+    "Method": "Get",
+    "RelativePath": "Emptc",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [],
+    "EndpointName": "GetData"
+  }
+]

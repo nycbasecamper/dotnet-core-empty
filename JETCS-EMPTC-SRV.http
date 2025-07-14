@@ -1,0 +1,6 @@
+@JETCS_EMPTC_SRV_HostAddress = http://localhost:5273
+
+GET {{JETCS_EMPTC_SRV_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

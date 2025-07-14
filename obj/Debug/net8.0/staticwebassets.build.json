@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "vtQTFGeCD13jMBfTOfG1BfILGC89IZCY4FgqvIjtdzQ=",
+  "Source": "JETCS-EMPTC-SRV",
+  "BasePath": "_content/JETCS-EMPTC-SRV",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

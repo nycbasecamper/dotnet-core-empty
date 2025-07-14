@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\JETCS-EMPTC-SRV.props" />
+</Project>
